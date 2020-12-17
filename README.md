@@ -1,5 +1,4 @@
 # FCC Responsive Web Design Project 3
-Landing page for nothing
 
 A responsive landing page for Jay's "Nothing" product. 
 
