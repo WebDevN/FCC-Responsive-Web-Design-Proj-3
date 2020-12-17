@@ -1,4 +1,4 @@
-# FCC Responsive Web Design Project 3
+# Free Code Camp's Responsive Web Design Project 3
 
 A responsive landing page for Jay's "Nothing" product. 
 
